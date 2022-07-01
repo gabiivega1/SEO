@@ -1,0 +1,2 @@
+*Cambie los Titles, agregando el nombre de la marca 
+*agregue keywords en los 2 HTML
